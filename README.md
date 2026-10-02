@@ -10,6 +10,7 @@ Google Sheets `편집` 탭의 지원자 정보를 검색하고 Q:U 결과를 입
 - 현재 검색 조건의 전체 결과를 원본 A:U 구조의 Excel 파일로 다운로드
 - 10초 간격으로 열린 검색 결과 동기화
 - 배경 이미지가 `index.html`에 내장됨
+- 시트 일괄 갱신 뒤 `publishAdmissionsDataRevision()`을 실행해 열린 화면에 새 데이터 리비전을 즉시 알림
 
 웹 주소: https://seiryu1318.github.io/26early_Ryan/
 
